@@ -1,0 +1,81 @@
+16
+
+
+4 2 wall
+4 3 wall
+4 4 wall
+4 5 wall
+4 6 wall
+4 7 wall
+4 8 wall
+4 9 wall
+4 10 wall
+4 11 wall
+4 12 wall
+
+6 2 wall
+6 3 wall
+6 4 core
+6 5 wall
+6 6 wall
+6 7 wall
+6 8 wall
+6 9 wall
+6 10 core
+6 11 wall
+6 12 wall
+
+7 2 rock
+7 3 rock
+7 4 rock
+7 5 rock
+7 6 rock
+7 7 rock
+7 8 rock
+7 9 rock
+7 10 rock
+7 11 rock
+7 12 rock
+
+8 2 rock
+8 3 rock
+8 4 rock
+8 5 rock
+8 6 rock
+8 7 rock
+8 8 rock
+8 9 rock
+8 10 rock
+8 11 rock
+8 12 rock
+
+9 2 wall
+9 3 wall
+9 4 wall
+9 5 wall
+9 6 wall
+9 7 wall
+9 8 core
+9 9 wall
+9 10 wall
+9 11 wall
+9 12 wall
+
+11 2 wall
+11 3 wall
+11 4 wall
+11 5 wall
+11 6 wall
+11 7 wall
+11 8 wall
+11 9 wall
+11 10 wall
+11 11 wall
+11 12 wall
+
+5 0 arrow down 4
+7 0 arrow down 3
+8 0 arrow down 0
+10 0 arrow down 5
+6 1 arrow right 2
+8 1 arrow left 1
